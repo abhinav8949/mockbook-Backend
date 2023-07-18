@@ -1,4 +1,4 @@
-## MockTest- Backend
+## MockTest- Backend (Spring-Boot, MySQL, Swagger3, JWT)
 This is `MockBook` exam portal monolithic Backend RestAPI developed by Spring-Boot3, MySql
 , all Rest endpoints are secured with JWT, spring security3 and endpoints are documented 
 using swagger3(OpenAPI).
